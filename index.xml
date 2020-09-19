@@ -6,10 +6,19 @@
     <description>Recent content on Liva | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 05 Sep 2020 11:46:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 10:41:47 +0800</lastBuildDate>
     
 	<atom:link href="https://chiahenglin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>上傳的第二篇囉</title>
+      <link>https://chiahenglin.github.io/blog/second-post/</link>
+      <pubDate>Sat, 19 Sep 2020 10:41:47 +0800</pubDate>
+      
+      <guid>https://chiahenglin.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
     
     <item>
       <title>彼德的第一篇文章</title>

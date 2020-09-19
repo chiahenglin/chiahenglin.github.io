@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Liva | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 05 Sep 2020 11:46:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 10:41:47 +0800</lastBuildDate>
     
 	<atom:link href="https://chiahenglin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>員工旅遊</title>
+      <link>https://chiahenglin.github.io/categories/%E5%93%A1%E5%B7%A5%E6%97%85%E9%81%8A/</link>
+      <pubDate>Sat, 19 Sep 2020 10:41:47 +0800</pubDate>
+      
+      <guid>https://chiahenglin.github.io/categories/%E5%93%A1%E5%B7%A5%E6%97%85%E9%81%8A/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>心得</title>
